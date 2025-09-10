@@ -1,5 +1,6 @@
 # Node
 node_modules/
+server/node_modules/
 .env
 .gitignore
 npm-debug.log*
